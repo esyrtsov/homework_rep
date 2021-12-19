@@ -1,2 +1,3 @@
-аорар
-hdkl
+#!/bin/bash
+
+echo "hello world"
