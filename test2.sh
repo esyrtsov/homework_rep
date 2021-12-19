@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "push me baby one more time - Britney"
+echo "push me baby one more time - Britney Spears"
